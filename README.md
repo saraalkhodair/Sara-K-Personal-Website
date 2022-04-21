@@ -1,4 +1,4 @@
-# learning
+# Personal Website
 This project has helped me learn how to develop a website with html and utilziing .css 
 I have built a personal wesbite to help employers, recruiters, and people in my network learn more about me 
 I have utilizing a number of resources to help me understand and build the code, then customize it to fit the plan I had for my wesbite.
